@@ -28,5 +28,8 @@ Topics:
 
       But axios do those in a simpler way
 
+Task:
+Day 27: https://docs.google.com/document/d/1-qvT8VkH2Bvv16hYm-qNiwfusRSt9ACJmceJLpLV9x8/edit
+
 Next Session:
   5. Formik  ( Form validation Library helps has deals with lot of form validations)
