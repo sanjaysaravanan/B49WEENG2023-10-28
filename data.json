@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "imageId": "iphone",
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+  },
+  {
+    "id": 2,
+    "imageId": "iphone",
+    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+  },
+  {
+    "id": 3,
+    "imageId": "OPPOF19",
+    "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+  },
+  {
+    "id": 4,
+    "imageId": "OPPOF19",
+    "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+  },
+  {
+    "id": 5,
+    "imageId": "MacBook-Pro",
+    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png"
+  },
+  {
+    "id": 6,
+    "imageId": "MacBook-Pro",
+    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png"
+  },
+  {
+    "id": 7,
+    "imageId": "perfume-Oil",
+    "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
+  },
+  {
+    "id": 8,
+    "imageId": "perfume-Oil",
+    "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
+  },
+  {
+    "id": 9,
+    "imageId": "Tree-Oil-30ml",
+    "thumbnail": "https://i.dummyjson.com/data/products/17/thumbnail.jpg"
+  },
+  {
+    "id": 10,
+    "imageId": "Tree-Oil-30ml",
+    "thumbnail": "https://i.dummyjson.com/data/products/17/thumbnail.jpg"
+  },
+  {
+    "id": 11,
+    "imageId": "Daal-Masoor-500-grams",
+    "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.png"
+  },
+  {
+    "id": 12,
+    "imageId": "Daal-Masoor-500-grams",
+    "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.png"
+  }
+]

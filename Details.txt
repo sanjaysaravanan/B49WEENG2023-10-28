@@ -1,0 +1,32 @@
+
+Topics:
+
+  1. Simple Tic-Tac-Toe/Tile Matching
+  
+  2. Using Fetch for API requests
+      CRUD:
+        Read   - GET
+        Create - POST
+        Update - PUT/PATCH
+        Delete - DELETE
+
+  4. Implementing CRUD operations using react & axios
+
+  3. Axios vs Fetch
+
+      Axios - separate library which helps in handling API requests and other API related operations
+
+        Instance: axios allows to keep multiple instances ( Multiple server instances )
+
+        It uses XHR for api interaction
+
+        Reduces the JSON.stringfy and JSON.parsing ( response.json() )
+
+      Fetch - JavaScript inbuilt API/fetch for handling API requests & other API related operations
+
+      Fetch is also capable of doing all the things that axios can do
+
+      But axios do those in a simpler way
+
+Next Session:
+  5. Formik  ( Form validation Library helps has deals with lot of form validations)
